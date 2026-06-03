@@ -23,7 +23,7 @@
 
 🌱 Currently learning Full Stack Development, System Design, and AI Applications
 
-📫 Reach me at: your-email@example.com
+📫 Reach me at: yashagr1202020@gmail.com
 
 ---
 
