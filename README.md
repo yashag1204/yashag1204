@@ -104,17 +104,7 @@ Current Focus
 
 </div>
 
----
 
-# 🏆 Achievements
-
-- ⭐ 5-Star CodeChef Programmer
-- 🏆 Codeforces Expert
-- 💯 Solved 1000+ DSA Problems
-- 🥈 Meta Hacker Cup 2025 Round 2 Qualifier
-- 🥈 TCS CodeVita Season 13 Round 2 Qualifier
-
----
 
 # 🚀 Featured Projects
 
